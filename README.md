@@ -22,6 +22,11 @@ whisperx==3.3.1
 moviepy==1.0.3
 ffmpeg-python==0.2.0
 python-json-logger>=2.0.7
+tqdm>=4.66.1
+pillow>=10.0.0
+numpy>=1.24.0
+torch>=2.0.0
+edge-tts>=6.1.9
 ```
 
 ## 🚀 Quick Start
