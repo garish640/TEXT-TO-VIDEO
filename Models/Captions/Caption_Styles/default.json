@@ -1,0 +1,12 @@
+{
+    "font_size_ratio": 0.04,
+    "padding_x_ratio": 0.02,
+    "padding_top_ratio": 0.01,
+    "padding_bottom_ratio": 0.02,
+    "bg_color": [0, 0, 0, 200],
+    "text_color": [255, 255, 255, 255],
+    "position": "bottom",
+    "vertical_offset": 300,
+    "font": "arial.ttf",
+    "uppercase": true
+} 
