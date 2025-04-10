@@ -1,5 +1,5 @@
-SCRIPT_MODEL = "ddc"
-SCRIPT_MODEL_TYPE = "Provider-5/gpt-4o"
+SCRIPT_MODEL = "gemini"
+SCRIPT_MODEL_TYPE = "gemini-1.5-pro"
 
 IMG_MODEL = "pixelmuse"
 IMG_MODEL_TYPE = "flux-schnell"
