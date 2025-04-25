@@ -1,4 +1,4 @@
-lucky l# Text to Video Generator
+ai lucky l# Text to Video Generator
 
 A comprehensive pipeline that converts text prompts into engaging short-form videos with voiceovers and captions.
 
